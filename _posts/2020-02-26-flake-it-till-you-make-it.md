@@ -7,6 +7,7 @@ thumbnail-img: /assets/img/avatar-icon.png
 share-img: /assets/img/path.jpg
 tags: [books, test]
 author: 
+show_post_date: false
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras porttitor non eros in laoreet. Vestibulum vestibulum sollicitudin commodo. Duis purus nibh, accumsan quis pulvinar at, posuere vitae sapien. Donec ullamcorper congue urna, sit amet efficitur mi. Proin ut lacus quam. Quisque nisi elit, faucibus quis diam vitae, pellentesque ornare ipsum. Vivamus vel enim et lacus faucibus sagittis. Vestibulum mattis dui placerat iaculis vehicula. Suspendisse vitae venenatis nisi.
