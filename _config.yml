@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: My website
+title: PN Network
 
 # Your name to show in the footer
-author: Some Person
+author: Krista Mitchnick
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -24,7 +24,7 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Author's home: "https://www.linkedin.com/in/krista-mitchnick-phd-c-psych-supervised-practice-b95143199/"
 
 ################
 # --- Logo --- #
@@ -52,12 +52,12 @@ round-avatar: true
 social-network-links:
   email: "someone@example.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: "@daattali"
-  whatsapp: 15551212
+# facebook: deanattali
+  github: K-Mitchnick
+# twitter: daattali
+# patreon: DeanAttali
+# youtube: "@daattali"
+# whatsapp: 15551212
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
@@ -85,7 +85,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+rss-description: PN Network
 
 ###########################
 # --- General options --- #
@@ -100,7 +100,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "pn-network.ca"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
