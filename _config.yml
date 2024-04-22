@@ -13,7 +13,7 @@
 title: PN Network
 
 # Your name to show in the footer
-author: Krista Mitchnick
+author: Krista Mitchnick & Ryan Yeung
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -106,7 +106,7 @@ url-pretty: "pn-network.ca"
 title-on-all-pages: true
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
-excerpt_length: 200
+excerpt_length: 400
 
 # Whether or not to show an excerpt for every blog post in the feed page
 feed_show_excerpt: true
@@ -293,6 +293,7 @@ exclude:
   - README.md
   - screenshot.png
   - docs/
+  - _drafts/
 
 plugins:
   - jekyll-paginate
