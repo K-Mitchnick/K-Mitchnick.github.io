@@ -1,18 +1,18 @@
 ---
 layout: post
-title: Flake it till you make it
-subtitle: Excerpt from Soulshaping by Jeff Brown
+title: What We Do!
+subtitle: 
 cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
+thumbnail-img: /assets/img/avatar-icon.png
 share-img: /assets/img/path.jpg
 tags: [books, test]
-author: Sharon Smith and Barry Simpson
+author: 
 ---
 
-Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who hit me, no one would say that I had a commitment problem. But if I walk away from a seemingly secure route because my soul has other ideas, I am a flake?
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras porttitor non eros in laoreet. Vestibulum vestibulum sollicitudin commodo. Duis purus nibh, accumsan quis pulvinar at, posuere vitae sapien. Donec ullamcorper congue urna, sit amet efficitur mi. Proin ut lacus quam. Quisque nisi elit, faucibus quis diam vitae, pellentesque ornare ipsum. Vivamus vel enim et lacus faucibus sagittis. Vestibulum mattis dui placerat iaculis vehicula. Suspendisse vitae venenatis nisi.
 
-The truth is that no one else can definitively know the path we are here to walk. It’s tempting to listen—many of us long for the omnipotent other—but unless they are genuine psychic intuitives, they can’t know. All others can know is their own truth, and if they’ve actually done the work to excavate it, they will have the good sense to know that they cannot genuinely know anyone else’s. Only soul knows the path it is here to walk. Since you are the only one living in your temple, only you can know its scriptures and interpretive structure.
+Aliquam semper tristique augue, finibus rutrum nisl varius quis. Vivamus blandit dui et nunc placerat, a eleifend mauris sodales. Cras euismod ex quis urna interdum sollicitudin. Aenean purus tellus, posuere vel enim ut, fermentum commodo mi. Suspendisse viverra risus ante, et aliquet massa congue sed. Aenean dapibus non ipsum pharetra hendrerit. Praesent et risus eu erat pulvinar scelerisque ut et ipsum. Curabitur tincidunt efficitur velit, accumsan mattis sapien egestas vehicula. Integer lobortis lorem nec augue tempus, et condimentum ipsum pellentesque. Sed id commodo orci, ac tempus nisl. Curabitur vestibulum mattis eros in hendrerit.
 
-At the heart of the struggle are two very different ideas of success—survival-driven and soul-driven. For survivalists, success is security, pragmatism, power over others. Success is the absence of material suffering, the nourishing of the soul be damned. It is an odd and ironic thing that most of the material power in our world often resides in the hands of younger souls. Still working in the egoic and material realms, they love the sensations of power and focus most of their energy on accumulation. Older souls tend not to be as materially driven. They have already played the worldly game in previous lives and they search for more subtle shades of meaning in this one—authentication rather than accumulation. They are often ignored by the culture at large, although they really are the truest warriors.
+Pellentesque fermentum nisi ut augue scelerisque dictum. Aenean dictum, mauris in ullamcorper tincidunt, turpis turpis suscipit lorem, et pharetra magna massa eu lectus. Nunc congue augue sit amet erat suscipit, nec varius sapien porta. Nulla aliquet, metus quis tincidunt aliquet, elit lorem ullamcorper massa, nec ultrices enim libero non elit. In lobortis ipsum augue, eu interdum dolor porttitor ac. Donec nec consequat ante. Aliquam viverra, neque dapibus elementum ornare, felis eros faucibus dolor, eget faucibus diam enim a lorem. Sed sed dolor quis nulla ornare interdum vel a augue. In blandit lacus ac dui fringilla convallis. Aenean pellentesque eget massa vel aliquam. In tempor sem tellus, dignissim mattis tortor imperdiet nec. Cras laoreet arcu sit amet ipsum elementum finibus. Nam a dui convallis, rhoncus risus sit amet, sagittis metus. Curabitur bibendum feugiat dui, sed sodales risus interdum quis. Nam a sapien nec eros commodo hendrerit nec id diam. Nunc quis sem libero.
 
-A soulful notion of success rests on the actualization of our innate image. Success is simply the completion of a soul step, however unsightly it may be. We have finished what we started when the lesson is learned. What a fear-based culture calls a wonderful opportunity may be fruitless and misguided for the soul. Staying in a passionless relationship may satisfy our need for comfort, but it may stifle the soul. Becoming a famous lawyer is only worthwhile if the soul demands it. It is an essential failure if you are called to be a monastic this time around. If you need to explore and abandon ten careers in order to stretch your soul toward its innate image, then so be it. Flake it till you make it.
+<img src="{{ 'assets/img/path.jpg' | relative_url }}" alt="Path" />
