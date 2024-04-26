@@ -20,6 +20,7 @@
               {%- for childlink in link[1] -%}
                 {%- for linkparts in childlink %}
                   <a class="dropdown-item" href="{{ linkparts[1] | relative_url }}">{{ linkparts[0] }}</a>
+                  <!--- TODO: can add target="_blank" for external linnks -->
                 {%- endfor -%}
               {%- endfor %}
             </div>
@@ -27,6 +28,7 @@
         {% else %}
           <li class="nav-item">
             <a class="nav-link" href="{{ link[1] | relative_url }}">{{ link[0] }}</a>
+            <!--- TODO: can add target="_blank" for external linnks -->
           </li>
         {%- endif -%}
       {%- endfor -%}

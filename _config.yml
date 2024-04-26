@@ -20,11 +20,11 @@ author: Krista Mitchnick & Ryan Yeung
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About Us: "aboutus"
+  Author's home: "https://www.linkedin.com/in/krista-mitchnick-phd-c-psych-supervised-practice-b95143199/"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://www.linkedin.com/in/krista-mitchnick-phd-c-psych-supervised-practice-b95143199/"
 
 ################
 # --- Logo --- #
