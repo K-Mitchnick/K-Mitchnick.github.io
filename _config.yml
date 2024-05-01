@@ -21,10 +21,10 @@ author: Krista Mitchnick & Ryan Yeung
 
 navbar-links:
   About Us: "aboutus"
-  Author's home: "https://www.linkedin.com/in/krista-mitchnick-phd-c-psych-supervised-practice-b95143199/"
+  Author's Home: "https://www.linkedin.com/in/krista-mitchnick-phd-c-psych-supervised-practice-b95143199/"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    - Learn Markdown: "https://www.markdowntutorial.com/"
 
 ################
 # --- Logo --- #
@@ -50,7 +50,7 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+  email: "info@pn-network.ca"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
 # facebook: deanattali
   github: K-Mitchnick
@@ -60,7 +60,7 @@ social-network-links:
 # whatsapp: 15551212
 #  medium: yourname
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: "krista-mitchnick-phd-c-psych-supervised-practice-b95143199"
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
