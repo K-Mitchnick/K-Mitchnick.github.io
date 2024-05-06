@@ -11,14 +11,46 @@ We’re a group of graduate students, postdocs, early university faculty, early 
 <h1 style="text-align:center;">Current Mentors</h1>
 <hr>
 
-<!--## Master's Students/Candidates-->
+<details>
+  <summary class="profile_header">Master's Students/Candidates (1)</summary>
+
+  <h3> Tolu Faromika </h3>
+  <img class="profile_img" src="/assets/img/mentors/mentor_tolu_faromika.jpeg">
+  Tolu is a Masters student in the Adult Clinical Psychology program (Neuropsychology Stream), supervised by Dr. Shayna Rosenbaum, at York University. Her research focuses on spatial memory and the myriad of conditions that could disrupt the spatial navigation process. She completed her undergraduate degree in Psychology at the University of Toronto Scarborough and has a variety of research/clinical experiences across age populations. Tolu's academic journey has been marked by numerous awards, including the Heart & Stroke Master's Personnel Award, the VISTA Training Scholarship, and CGS-M (NSERC) Scholarship. Beyond her academic pursuits, Tolu is deeply engaged in community service and advocacy through her work with the African Impact Initiative. She also founded The BrainCore Podcast which aims to bridge the gap between academia and the general public, making research more accessible globally.  
+  <hr>
+</details>
 
 <details>
-  <summary class="profile_header">PhD Students/Candidates (1)</summary>
+  <summary class="profile_header">PhD Students/Candidates (5)</summary>
   
-  <h3> Steph Simpson </h3>
+  <h3> Stephanie Simpson </h3>
   <img class="profile_img" src="/assets/img/mentors/mentor_steph_simpson.png">
-  Stephanie is a fifth-year PhD student in Dr. Brian Levine’s lab at the Rotman Research Institute. She is an NSERC-Postgraduate Scholarship-Doctoral award holder and was a standing committee member of the Research Training Centre for three years. Broadly, Stephanie is interested in studying the neural correlates of episodic memory retrieval in humans. One aspect of her doctoral work applies EEG techniques to investigate how the neurophysiological hallmarks of overnight sleep impact our ability to recall real-world events over time. Another stream of her research investigates howvariability in hippocampal subfield structure relates to individual differences in memory using a unique population of people with severely deficient autobiographical memory. In her downtime, you can find her at the beach playing volleyball or taking her two dogs for a walk.
+  Stephanie is a fifth-year PhD student in Dr. Brian Levine’s lab at the Rotman Research Institute. She is an NSERC-Postgraduate Scholarship-Doctoral award holder and was a standing committee member of the Research Training Centre for three years. Broadly, Stephanie is interested in studying the neural correlates of episodic memory retrieval in humans. One aspect of her doctoral work applies EEG techniques to investigate how the neurophysiological hallmarks of overnight sleep impact our ability to recall real-world events over time. Another stream of her research investigates how variability in hippocampal subfield structure relates to individual differences in memory using a unique population of people with severely deficient autobiographical memory. In her downtime, you can find her at the beach playing volleyball or taking her two dogs for a walk.
+  
+  <h3> Andrea Aternali </h3>
+  <img class="profile_img" src="/assets/img/mentors/mentor_andrea_aternali.jpeg">
+  Andrea Aternali, M.A. is currently pursuing her PhD in Clinical Psychology at York University under the supervision of Dr. Joel Katz. She obtained her B.Sc. in Psychology at McGill University where she completed an undergraduate thesis investigating stress and pain behavior in laboratory mice. After her undergraduate training, she worked as a research assistant evaluating sensitivity to physical activity in individuals with chronic pain conditions such as osteoarthritis, fibromyalgia, and back pain.
+  <br>
+  <br>
+  Andrea is interested in developing best-practice interventions aimed at improving the mental health of individuals with chronic pain. Her current research explores psychosocial factors that predict the development and maintenance of chronic postsurgical pain and phantom limb pain. Andrea’s doctoral research is generously supported by the Canadian Institutes of Health Research (CIHR) and the War Amps.
+  <br>
+  <br>
+  Andrea has worked in a variety of clinical settings including the Transitional Pain Service and GoodHope Ehlers-Danlos Syndrome Clinics at the Toronto General Hospital, the Frederick W. Thomson Anxiety Disorders Centre at Sunnybrook Health Sciences Centre, Maplehurst Correctional Complex, Vanier Centre for Women, and Forest Hill Centre for Cognitive Behavioural Therapy. She currently provides treatment services to adults, older adolescents, and couples.
+
+  <h3> Meaghan Hall </h3>
+  <img class="profile_img" src="/assets/img/mentors/mentor_meaghan_hall.jpeg">
+  Meaghan is a PhD candidate in Clinical Developmental Neuropsychology at York University, where she also completed her MA. Prior to this, she achieved an HBSc in Behaviour, Genetics, and Neurobiology at the University of Toronto. She completed her undergraduate thesis project in an experimental behavioural epigenetics lab, focused on understanding the molecular mechanisms of memory. Meaghan’s current research interests lie in the realm of women and children’s environmental health. In particular, she is interested in examining the effects of prenatal neurotoxicant exposures on women’s health and children’s brain development. She is currently investigating mechanisms that may explain the developmental neurotoxicity of environmental chemicals, including maternal thyroid disruption. Clinically, Meaghan has completed training in pediatric neuropsychological assessment and intervention at The Hospital for Sick Children and The Centre for Addiction and Mental Health. She is CGS-M, OGS, and CIHR CGS-D scholar.
+
+  <h3> Ruth Vanstone </h3>
+  <img class="profile_img" src="/assets/img/mentors/mentor_ruth_vanstone.jpg">
+  Ruth Vanstone is a fourth-year PhD student in the Adult Clinical Health Psychology program at York University and holds a CIHR doctoral award. Ruth has completed clinical training at the Women’s Health Concerns Clinic (St. Joe’s Hamilton) and the Psychosocial Oncology Clinic (Princess Margaret Hospital). She currently works in private practice, delivering evidence-based interventions, such as CBT, EFT, and schema therapy to diverse populations. Her primary area of interest is in women’s health and oncology, helping individuals adjust to cancer diagnosis, treatment, and caregiving. She will be completing her residency year at the Halifax Clinical Psychology residency program.
+  <br>
+  <br>
+  Throughout her graduate training, Ruth has focused her research on perinatal concerns for women with a history of breast cancer. She is currently working toward developing an online resource to provide patients, healthcare providers, and community partners with knowledge and tools to better understand and cope with the lasting impact of cancer treatment on the perinatal period.
+  
+  <h3> Alyssia Wilson</h3>
+  <img class="profile_img" src="/assets/img/mentors/mentor_alyssia_wilson.jpeg">
+  Alyssia is a PhD student in the Clinical Developmental Psychology program in the Neuropsychology Stream at York University. She has taken a lifespan approach to her neuropsychology training with practicums at SickKids Hospital and Sunnybrook hospital and will be doing a lifespan neuropsychology residency in Fall 2024 at Hamilton Health Sciences. Alyssia is a Vanier scholar and her research investigates mental health outcomes following brain injuries in university athletes. Additionally, she has been a member of the Justice, Diversity, Equity and Inclusion throughout her graduate training and is passionate about work her in the community. More recently, her endeavors have been more family focused as she balances maternity leave with her 10 month old while preparing for residency.
   <hr>
 </details>
 
@@ -77,7 +109,7 @@ We’re a group of graduate students, postdocs, early university faculty, early 
     height: 300px; 
     object-fit: cover; 
     margin: 10px; 
-    border: 5px solid #555
+    border: 5px solid #555;
 }
 </style>
 
