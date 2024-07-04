@@ -25,7 +25,7 @@ We’re a group of graduate students, postdocs, early university faculty, early 
 </details>
 
 <details>
-  <summary class="profile_header">PhD Students/Candidates (5)</summary>
+  <summary class="profile_header">PhD Students/Candidates (6)</summary>
   
   <h3> Stephanie Simpson </h3>
   <img class="profile_img" src="/assets/img/mentors/mentor_steph_simpson.png">
@@ -53,7 +53,7 @@ We’re a group of graduate students, postdocs, early university faculty, early 
   Throughout her graduate training, Ruth has focused her research on perinatal concerns for women with a history of breast cancer. She is currently working toward developing an online resource to provide patients, healthcare providers, and community partners with knowledge and tools to better understand and cope with the lasting impact of cancer treatment on the perinatal period.
   
 <h3> Zoha Ahmad</h3>
-  <img class="profile_img" src="/assets/img/mentors/mentor_zoha_ahmad.jpeg">
+  <img class="profile_img" src="/assets/img/mentors/mentor_zoha_ahmad.jpg">
   Zoha Ahmad is a third-year PhD student in York University's Biology program. She completed her BSc (Honours) in Biology at York University with a minor in Psychology. Currently, she is in the Freud Lab within the Centre for Vision Research at York University. Her primary research focus centers on investigating alterations in the development of visuomotor representations. She is particularly interested in how visual development can be altered in unique populations such as children with amblyopia, individuals with autism, and epileptic patients. Her work has led her to several collaborations with institutions including the Retina Foundation of the Southwest, Carnegie Mellon University, and University of Haifa. Zoha is honored to be an OGS and VISTA scholar. Outside of academia, she loves to travel, try new foods, and learn about the human mind!
   <hr>
 
@@ -86,7 +86,7 @@ We’re a group of graduate students, postdocs, early university faculty, early 
 </details>
 
 <details>
-  <summary class="profile_header">Industry (1)</summary>
+  <summary class="profile_header">Industry (2)</summary>
   
   <h3> Dr. Ari Mendell </h3>
   <img class="profile_img" src="/assets/img/mentors/mentor_ari_mendell.jpeg">
