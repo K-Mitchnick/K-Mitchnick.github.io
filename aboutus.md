@@ -12,11 +12,15 @@ We’re a group of graduate students, postdocs, early university faculty, early 
 <hr>
 
 <details>
-  <summary class="profile_header">Master's Students/Candidates (1)</summary>
+  <summary class="profile_header">Master's Students/Candidates (2)</summary>
 
   <h3> Tolu Faromika </h3>
   <img class="profile_img" src="/assets/img/mentors/mentor_tolu_faromika.jpeg">
   Tolu is a Masters student in the Adult Clinical Psychology program (Neuropsychology Stream), supervised by Dr. Shayna Rosenbaum, at York University. Her research focuses on spatial memory and the myriad of conditions that could disrupt the spatial navigation process. She completed her undergraduate degree in Psychology at the University of Toronto Scarborough and has a variety of research/clinical experiences across age populations. Tolu's academic journey has been marked by numerous awards, including the Heart & Stroke Master's Personnel Award, the VISTA Training Scholarship, and CGS-M (NSERC) Scholarship. Beyond her academic pursuits, Tolu is deeply engaged in community service and advocacy through her work with the African Impact Initiative. She also founded The BrainCore Podcast which aims to bridge the gap between academia and the general public, making research more accessible globally.  
+
+  <h3> Olivia O'Neill </h3>
+  <img class="profile_img" src="/assets/img/mentors/mentor_olivia_oneill.jpeg">
+  Olivia O’Neill is a second year MSc student at the University of Guelph in the Neuroscience and Applied Cognitive Sciences Program, beginning her PhD in fall 2024. She obtained her BSc in Psychology and Neuroscience from Wilfrid Laurier University, completing her honors thesis with Dr. William Hockley and a funded research assistantship with Dr. Laurie Manwell. Olivia’s current research, under the supervision of Dr. Boyer Winters, explores the role of the neurotransmitter dopamine in long term memory dynamics using rodent models of declarative-like memory, and various techniques including pharmacological, histological, and chemogenetic manipulations. During her graduate training she has participated in various conferences delivering both oral and poster presentations, as well as pursued an educational placement at the University of Western Ontario to gain skills in collecting, analyzing, and interpreting fiber photometry data. Her MSc work is currently funded by an Ontario Graduate Scholarship.
   <hr>
 </details>
 
