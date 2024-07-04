@@ -48,9 +48,14 @@ We’re a group of graduate students, postdocs, early university faculty, early 
   <br>
   Throughout her graduate training, Ruth has focused her research on perinatal concerns for women with a history of breast cancer. She is currently working toward developing an online resource to provide patients, healthcare providers, and community partners with knowledge and tools to better understand and cope with the lasting impact of cancer treatment on the perinatal period.
   
+<h3> Zoha Ahmad</h3>
+  <img class="profile_img" src="/assets/img/mentors/mentor_zoha_ahmad.jpeg">
+  Zoha Ahmad is a third-year PhD student in York University's Biology program. She completed her BSc (Honours) in Biology at York University with a minor in Psychology. Currently, she is in the Freud Lab within the Centre for Vision Research at York University. Her primary research focus centers on investigating alterations in the development of visuomotor representations. She is particularly interested in how visual development can be altered in unique populations such as children with amblyopia, individuals with autism, and epileptic patients. Her work has led her to several collaborations with institutions including the Retina Foundation of the Southwest, Carnegie Mellon University, and University of Haifa. Zoha is honored to be an OGS and VISTA scholar. Outside of academia, she loves to travel, try new foods, and learn about the human mind!
+  <hr>
+
   <h3> Alyssia Wilson</h3>
   <img class="profile_img" src="/assets/img/mentors/mentor_alyssia_wilson.jpeg">
-  Alyssia is a PhD student in the Clinical Developmental Psychology program in the Neuropsychology Stream at York University. She has taken a lifespan approach to her neuropsychology training with practicums at SickKids Hospital and Sunnybrook hospital and will be doing a lifespan neuropsychology residency in Fall 2024 at Hamilton Health Sciences. Alyssia is a Vanier scholar and her research investigates mental health outcomes following brain injuries in university athletes. Additionally, she has been a member of the Justice, Diversity, Equity and Inclusion throughout her graduate training and is passionate about work her in the community. More recently, her endeavors have been more family focused as she balances maternity leave with her 10 month old while preparing for residency.
+  Alyssia is a PhD student in the Clinical Developmental Psychology program in the Neuropsychology Stream at York University. She has taken a lifespan approach to her neuropsychology training with practicums at SickKids Hospital and Sunnybrook hospital and will be doing a lifespan neuropsychology residency in Fall 2024 at Hamilton Health Sciences. Alyssia is a Vanier scholar and her research investigates mental health outcomes following brain injuries in university athletes. Additionally, she has been a member of the Justice, Diversity, Equity and Inclusion throughout her graduate training and is passionate about work her in the community. More recently, her endeavors have been more family focused as she balances maternity leave with while preparing for residency.
   <hr>
 </details>
 
@@ -67,10 +72,17 @@ We’re a group of graduate students, postdocs, early university faculty, early 
   <hr>
 </details>
 
-<!-- ## Early career faculty -->
+<details>
+  <summary class="profile_header">Faculty (1)</summary>
+  
+  <h3> Dr. Gilda Stefanelli </h3>
+  <img class="profile_img" src="/assets/img/mentors/mentor_gilda_stefanelli.jpeg">
+  Dr. Stefanelli got her Bachelor’s degree in Biotechnologies at the University of Naples Federico II. After that, she gained her Masters in molecular biotechnologies at Vita Salute San Raffaele University in Milan. Here, she studied the role of CDKL5, a kinase mutated in Rett Syndrome, in synapses formation and maintenance. She then moved on to a PhD in Neurobiology at Insubria University, where she focused on how post-translational modifications of MeCP2 can influence its functions during brain development. For her postdoc, Dr. Stefanelli joined the lab of Dr. Iva Zovkic at the University of Toronto Mississauga where she studied how histone variants can influence memory formation and the molecular pathways that regulate their turnover in neurons. In 2023, Dr. Stefanelli started her own lab at the University of Ottawa. Her research focuses on the epigenetic mechanisms driving brain development. More specifically, her lab uses molecular biology and genomic techniques to understand how chaperones of histone variants shape gene expression during brain development by depositing or removing H2A.Z.
+  <hr>
+</details>
 
 <details>
-  <summary class="profile_header">Early Career Industry (1)</summary>
+  <summary class="profile_header">Industry (1)</summary>
   
   <h3> Dr. Ari Mendell </h3>
   <img class="profile_img" src="/assets/img/mentors/mentor_ari_mendell.jpeg">
@@ -79,10 +91,16 @@ We’re a group of graduate students, postdocs, early university faculty, early 
   <br>
   Ari was the recipient of more than 15 awards and honours throughout his academic career, including the Governor General’s Academic Gold Medal and an NSERC Alexander Graham Bell Doctoral Canada Graduate Scholarship. 
   <hr>
+
+<h3> Dr. Meenu Minhas </h3>
+  Meenu earned her PhD in Neuroscience and Psychology from the University of Guelph, where her research focused on the neuropsychopharmacology of addiction in rodents. Subsequently, she pursued a postdoctoral fellowship at McMaster University, focusing on the application of behavioral economics to understand human drug addiction. During this time, she also held teaching positions at the University of Guelph-Humber and McMaster University.
+  
+  Following her academic pursuits, Meenu transitioned to the industry, working as medical writer for 3 years. Currently, she holds the position of medical science liaison, where she collaborates with external stakeholders to address medical unmet needs, disseminate scientific data, and improve patient outcomes.
+  <hr>
 </details>
 
 <details>
-  <summary class="profile_header">Early Career Clinical Psychologists (2)</summary>
+  <summary class="profile_header">Clinical Psychologists (2)</summary>
   
   <h3> Dr. Adam Newton, PhD. C.Psych (supervised practice) </h3>
   <img class="profile_img" src="/assets/img/mentors/mentor_adam_newton.jpeg">
