@@ -64,7 +64,7 @@ We’re a group of graduate students, postdocs, early university faculty, early 
 </details>
 
 <details>
-  <summary class="profile_header">Postdoctoral Fellows (2)</summary>
+  <summary class="profile_header">Postdoctoral Fellows (3)</summary>
   
   <h3> Dr. Krista Mitchnick </h3>
   <img class="profile_img" src="/assets/img/mentors/mentor_krista_mitchnick.jpeg">
@@ -82,7 +82,7 @@ We’re a group of graduate students, postdocs, early university faculty, early 
 </details>
 
 <details>
-  <summary class="profile_header">Faculty (1)</summary>
+  <summary class="profile_header">Faculty (2)</summary>
   
   <h3> Dr. Gilda Stefanelli </h3>
   <img class="profile_img" src="/assets/img/mentors/mentor_gilda_stefanelli.jpeg">
