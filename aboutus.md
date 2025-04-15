@@ -107,9 +107,14 @@ We’re a group of graduate students, postdocs, early university faculty, early 
   <hr>
 
 <h3> Dr. Meenu Minhas </h3>
+<img class="profile_img" src="/assets/img/mentors/mentor_cassidy_wideman.jpeg">
   Meenu earned her PhD in Neuroscience and Psychology from the University of Guelph, where her research focused on the neuropsychopharmacology of addiction in rodents. Subsequently, she pursued a postdoctoral fellowship at McMaster University, focusing on the application of behavioral economics to understand human drug addiction. During this time, she also held teaching positions at the University of Guelph-Humber and McMaster University.
   
   Following her academic pursuits, Meenu transitioned to the industry, working as medical writer for 3 years. Currently, she holds the position of medical science liaison, where she collaborates with external stakeholders to address medical unmet needs, disseminate scientific data, and improve patient outcomes.
+  <hr>
+
+  <h3> Dr. Cassidy Wideman </h3>
+  Cassidy earned her MSc and PhD in Psychology with a specialization in Neuroscience from the University of Guelph, where her research focused on neurobiological mechanisms underlying dynamic memory storage. During her graduate studies, Cassidy co-authored 12 published peer-reviewed manuscripts and over 30 conference presentations. Cassidy was awarded NSERC funding at both the master’s and doctoral level. Following completion of her graduate studies, Cassidy pursued a career in industry, where she is currently working as a medical writer at EVERSANA. There she works as part of the Value and Evidence team developing evidence-based and value-driven medical communications across a range of disease areas. In the last year, Cassidy has also added the title of Mom to her credentials and is busy gaining valuable experience raising a tiny human.
   <hr>
 </details>
 
